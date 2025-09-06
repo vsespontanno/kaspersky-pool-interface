@@ -1,0 +1,1 @@
+# kaspersky-pool-interface
